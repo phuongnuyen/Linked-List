@@ -1,6 +1,6 @@
 # Danh sách liên kết (đơn)
 Source code danh sách liên kết đơn
-Bạn có thể xem phần hướng dẫn tại: https://ucodelearning.wordpress.com/2017/09/13/linked-list/
+Bạn có thể xem phần hướng dẫn tại: http://wp.me/p6eMDe-81
 
 =========================================================
 # Linked-List (single)
