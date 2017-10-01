@@ -5,4 +5,4 @@ Bạn có thể xem phần hướng dẫn tại: http://wp.me/p6eMDe-81
 =========================================================
 # Linked-List (single)
 Source code for Single Linked List algorithm, written by C++.
-At present, the tutorial is written in Vietnamese only. I'll write a copy with English late.
+At present, the tutorial is written in Vietnamese only.
